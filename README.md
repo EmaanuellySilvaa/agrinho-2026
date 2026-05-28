@@ -1,18 +1,19 @@
-🌾 Do Campo ao Copo: A Jornada do Malte em Guarapuava
+🌾 Do Campo ao Copo: O Custo Químico
 Projeto desenvolvido para o Concurso Agrinho 2026 – Categoria Programação, na Subcategoria 3: Programação Front-End – HTML, CSS e JavaScript.
 
 🌱 Tema do Concurso
 Agro forte, futuro sustentável: equilíbrio entre produção e meio ambiente
 
 📌 Sobre o Projeto
-O projeto “Do Campo ao Copo: A Jornada do Malte em Guarapuava” apresenta, de forma visual, interativa e educativa, a trajetória da cevada, desde o cultivo no campo até sua transformação em malte e sua chegada à cidade.
-
+O projeto “O Custo Químico:"O Problema: Agrotóxicos ameaçam a vida e a fertilidade do solo.
+A Necessidade: São essenciais para controlar pragas e garantir a produção de alimentos em larga escala.
+A Solução: Adotar a agricultura de precisão para usar químicos com responsabilidade, preservando o meio ambiente.
 A proposta mostra como o agronegócio, a tecnologia, a indústria, a sustentabilidade e a vida urbana estão conectados em uma mesma cadeia produtiva.
 
 Por meio de textos, imagens, quiz, curiosidades, vídeo e história em quadrinhos, o site busca aproximar o visitante da realidade do campo e destacar a importância de produzir com responsabilidade ambiental.
 
 🎯 Objetivo
-O objetivo do projeto é conscientizar os visitantes sobre a importância da produção sustentável, mostrando que o desenvolvimento econômico pode caminhar junto com o cuidado com o meio ambiente.
+O objetivo do projeto é demonstrar que é possível conciliar a produção agrícola em larga escala com a preservação ambiental.
 
 O site busca explicar, de maneira simples e interativa, como a cadeia produtiva da cevada e do malte envolve diferentes etapas, pessoas, tecnologias e impactos positivos para a sociedade.
 
@@ -203,6 +204,6 @@ educacao
 Projeto desenvolvido exclusivamente para fins educacionais e para participação no Concurso Agrinho 2026.
 
 🌟 Considerações Finais
-O projeto “Do Campo ao Copo: A Jornada do Malte em Guarapuava” busca demonstrar que a tecnologia pode ser usada como ferramenta de aprendizagem, conscientização e valorização do agronegócio sustentável.
+O projeto “O custo quimico:este projeto busca encontrar o equilíbrio entre produzir alimentos e proteger a terra.
 
 A iniciativa une programação, educação, sustentabilidade e realidade regional, mostrando que o campo e a cidade fazem parte de uma mesma cadeia de desenvolvimento.
